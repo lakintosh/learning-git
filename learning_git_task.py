@@ -15,3 +15,5 @@ print("W sumie kupuję " + str(sum) + " produktów.")
 
 print("Teraz samodzielnie wykonuję zadanie. ")
 print("Powtarzam zadanie.")
+
+#zmiany zmiany zmiany
