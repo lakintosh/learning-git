@@ -10,3 +10,5 @@ for key, value in zakupy.items():
 sum = (len(zakupy["Netto"]) + len(zakupy["Żabka"]))
 
 print("W sumie kupuję " + str(sum) + " produktów.")
+
+#Zmiany dokonane przez innego programistę.
