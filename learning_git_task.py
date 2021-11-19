@@ -12,3 +12,5 @@ sum = (len(zakupy["Netto"]) + len(zakupy["Żabka"]))
 print("W sumie kupuję " + str(sum) + " produktów.")
 
 #Zmiany dokonane przez innego programistę.
+
+print("Teraz samodzielnie wykonuję zadanie. ")
