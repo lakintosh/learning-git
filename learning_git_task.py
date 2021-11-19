@@ -19,3 +19,5 @@ print("Powtarzam zadanie.")
 #zmiany zmiany zmiany
 
 x = "Zmiany wprowadzone w gałęzi obey."
+
+pozdrowienia = "Pozdrawiam!"
