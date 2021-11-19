@@ -17,3 +17,5 @@ print("Teraz samodzielnie wykonuję zadanie. ")
 print("Powtarzam zadanie.")
 
 #zmiany zmiany zmiany
+
+x = "Zmiany wprowadzone w gałęzi obey."
